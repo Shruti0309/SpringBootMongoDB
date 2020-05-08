@@ -1,0 +1,6 @@
+#MongoDb configuration for Atlas cloud cluster. Replace username and password with cluster's username and password
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://<username>:<password>@cluster0-rbpp4.mongodb.net/test?retryWrites=true&w=majority
+      
