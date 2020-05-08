@@ -18,6 +18,7 @@ DELETE	/users	delete all User
 – We make CRUD operations & finder methods using Spring Data MongoDB.
 – Rest Controller will be created with the help of Spring Web MVC.
 
+
 Technology
 Java 8
 Spring Boot 2.2.4 (with Spring We
